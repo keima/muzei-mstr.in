@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Muzei mstr.in plugin</string>
+    <string name="source_name">mstr.in</string>
+    <string name="source_description">Show mstr.in photo</string>
+</resources>
