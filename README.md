@@ -10,6 +10,10 @@ muzei-mstr.in
 
 よって、このプラグインを使用するときはMuzei Live Wallpalerをインストールしてください。
 
+## Google Play
+
+- [Muzei 飯テロ.in Plugin - Google Play の Android アプリ](https://play.google.com/store/apps/details?id=net.pside.android.muzei.mstr)
+
 ## Requirements
 
 - Android 4.2 以上
