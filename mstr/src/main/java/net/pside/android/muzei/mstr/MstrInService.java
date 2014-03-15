@@ -22,5 +22,9 @@ interface MstrInService {
         public String getPhotoUrl(){
             return "https://pic.mstr.in/images/" + uid + ".jpg";
         }
+
+        public String getStaticPageUrl() {
+            return "https://mstr.in/photos/" + uid;
+        }
     }
 }
